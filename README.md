@@ -12,5 +12,4 @@ HJ2208 Tools Website
 ## Contact ##
 
 ## Skate 3 Skaters ##
-## Clone Hero Chart Maker ##
 ## Mods ##
